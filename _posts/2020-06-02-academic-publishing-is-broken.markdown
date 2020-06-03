@@ -37,3 +37,9 @@ Let’s not resign ourselves to repeating this episode every few years. Let’s 
 - The New England Journal of Medicine has issued an ["Expression of Concern"](https://www.nejm.org/doi/full/10.1056/NEJMe2020822) regarding the publication in question.
 - The Lancet has issued an ["Expression of Concern"](https://www.thelancet.com/lancet/article/s0140673620312903) regarding the publication in question.
 - Neither journal has yet retraced the articles in question.
+
+**More material**
+
+- [WHO Director-General's announcement](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---25-may-2020) of suspending the hydroxychloroquine arm of the Solidarity Trial. He specifically references the Lancet paper.
+- Fantastic, [evidence-based dissection](http://freerangestats.info/blog/2020/05/30/implausible-health-data-firm) of the issue by statistician Peter Ellis
+- Excellent reporting on this topic by [The Guardian](https://www.theguardian.com/science/2020/may/28/questions-raised-over-hydroxychloroquine-study-which-caused-who-to-halt-trials-for-covid-19), [Science Magazine](https://www.sciencemag.org/news/2020/06/mysterious-company-s-coronavirus-papers-top-medical-journals-may-be-unraveling), [New York Times](https://www.nytimes.com/2020/05/29/health/coronavirus-hydroxychloroquine.html)
