@@ -3,7 +3,7 @@ layout: post
 title: Ivermectina e COVID-19
 date: 2020-07-13 00:00:00 +0200
 description: Como um banco de dados duvidoso moldou a resposta de vários países latino-americanos à pandemia
-img: favela.jpeg
+img: favela.png
 tags: [Covid-19, data, publishing, ivermectin]
 ---
 
