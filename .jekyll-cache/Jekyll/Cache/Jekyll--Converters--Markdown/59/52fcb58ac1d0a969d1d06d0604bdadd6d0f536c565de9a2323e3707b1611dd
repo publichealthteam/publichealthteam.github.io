@@ -1,0 +1,80 @@
+I"�)<h3>Este artigo também está disponível em <a href="https://www.isglobal.org/en/healthisglobal/-/custom-blog-portlet/ivermectin-and-covid-19-how-a-flawed-database-shaped-the-covid-19-response-of-several-latin-american-countries/2877257/0">inglês</a> y <a href="https://www.isglobal.org/es/healthisglobal/-/custom-blog-portlet/ivermectin-and-covid-19-how-a-flawed-database-shaped-the-covid-19-response-of-several-latin-american-countries/2877257/0">español</a>.</h3>
+
+<div style="vertical-align:bottom; display:inline;">
+<p><a href="https://www.isglobal.org/en/our-team/-/profiles/7304" target="_blank"><img style="vertical-align:bottom;" src="../assets/img/carlos_circle.png" height="35" />
+<b>Carlos Chaccour</b></a>, Assistant Research Professor en ISGlobal y Chief Scientific Officer de BOHEMIA
+
+<div style="vertical-align:bottom; display:inline;">
+<p><a href="https://twitter.com/joethebrew" target="_blank"><img style="vertical-align:bottom;" src="../assets/img/joe_circle.png" height="35" />
+<b>Joe Brew</b></a>, analista de datos
+
+<div style="vertical-align:bottom; display:inline;">
+<p><a href="https://www.isglobal.org/en/our-team/-/profiles/16900" target="_blank"><img style="vertical-align:bottom;" src="../assets/img/alberto_circle.png" height="35" />
+<b>Alberto García-Basteiro</b></a>, Assistant Research Professor en ISGlobal y médico del Servicio de Salud Internacional del Hospital Clínic
+
+
+<p>Nas últimas semanas vimos a inclusão da ivermectina nas diretrizes terapêuticas nacionais do Peru para a COVID-19, a administração em massa de ivermectina a 350.000 pessoas para o tratamento ou prevenção da COVID-19 na Bolívia, restrições ao mercado de ivermectina no Paraguai e grupos de defesa na Colômbia exigindo uma política nacional sobre esta droga. Por que isto está acontecendo?</p>
+
+
+<p>A Ivermectina é um medicamento antiparasitário utilizado contra a cegueira dos rios, a filariose linfática e outras doenças tropicais negligenciadas. Também tem algum efeito antiviral contra vírus de RNA de cadeia única, como dengue e febre amarela. No início de abril, pesquisadores na Austrália relataram que a ivermectina <a href="https://www.sciencedirect.com/science/article/pii/S0166354220302011">inibe a replicação do SARS-CoV-2 in vitro</a>. Eles usaram concentrações impossíveis de alcançar no corpo humano, mas a plausibilidade biológica abriu a porta para os ensaios clínicos, dado o excelente perfil de segurança dos medicamentos e a falta de tratamento eficaz para a COVID-19. Neste <a href="http://www.ajtmh.org/content/journals/10.4269/ajtmh.20-0271">editorial convidado do American Journal of Tropical Medicine and Hygiene</a>, apelamos ao rigor científico e fornecemos a fundamentação para a realização de ensaios clínicos. Nosso próprio julgamento sobre este tema, SAINT , foi lançado em 13 de maio.</p>
+
+
+<p>Entretanto, as decisões de política de saúde na América Latina foram baseadas em grande parte na análise apresentada por Patel et al. em uma pré-impressão publicada no repositório <a href="https://www.ssrn.com/index.cfm/en/">SSRN</a> no início de abril. Embora apenas uma pré-impressão, este manuscrito teve um grande impacto: ele foi baixado 15.655 vezes e seu resumo foi visto 89.895 vezes (a partir de 28 de maio de 2020).</p>
+
+
+<p>As decisões de política de saúde na América Latina foram baseadas em grande parte na análise apresentada por Patel et al. em uma pré-impressão publicada no repositório SSRN no início de abril.</p>
+
+
+<p>Os autores afirmam ter utilizado dados da Surgical Outcomes Collaborative (Surgisphere Corporation, Chicago, IL, EUA). De acordo com uma recente publicação no The Lancet (discutida abaixo), os dados incluídos nesta plataforma colaborativa são "dados anonimizados obtidos através de extração automatizada de registros eletrônicos de saúde hospitalares e ambulatoriais, cadeias de coleta de dados e registros financeiros". Em outras palavras, existe algum tipo de acordo de colaboração com centenas de hospitais usando registros eletrônicos em todo o mundo que permite a esta corporação privada obter periódica e automaticamente dados dos pacientes dessas instalações. Isto parece ir diretamente contra vários pontos do Regulamento Geral de Proteção de Dados da UE &lt;a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679"(GDPR)&lt;/a&gt; e a parceria US-EU <a href="https://www.privacyshield.gov/list">Privacy Shield</a>, um programa para a transferência de dados pessoais.</p>
+
+
+<p>Diversas preocupações foram levantadas em torno deste banco de dados com base na recente análise da hidroxicloroquina publicada no <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext">The Lancet</a> pelos mesmos autores que assinaram a pré-impressão em ivermectina. Esses conflitos têm sido amplamente refletidos em <a href="https://zenodo.org/record/3862789#.XtEVzDozaUn">outros fóruns</a>.</p>
+
+
+<p>A primeira versão da pré-impressão do ivermectina foi publicada em 6 de abril*. Esta versão avaliou dados de 1.970 pacientes internados entre 1º de janeiro e 1º de março de 2020 em 169 hospitais na Ásia, Europa, África e América do Norte e do Sul, todos gravemente doentes com diagnóstico de COV-19 com lesão pulmonar que exigia ventilação mecânica. Isto incluiu 52 pacientes tratados com ivermectina, três deles (pacientes críticos que necessitam de ventilação) de hospitais africanos, apesar do fato de que até 1º de março apenas dois casos de IDOC-19 haviam sido confirmados em todo o continente africano.</p>
+
+
+<p>Após descobrir essas discrepâncias, contatamos os autores por e-mail e suas respostas deixaram nossas preocupações intactas. Além disso, o manuscrito apresentou uma análise de sobrevivência com sérias falhas metodológicas (figura 1)
+A primeira versão foi removida e substituída por uma segunda versão de 19 de abril*. Esta nova versão incluiu dados sobre 1.408 pacientes hospitalizados com diagnóstico confirmado por PCR da COVID-19 entre 1 de janeiro e 31 de março de 2020. Os dados eram de 169 hospitais em três continentes. Metade desses pacientes (704) tinha recebido uma dose única de ivermectina (150 mcg / kg) e foram comparados "exatamente por idade, sexo, raça, comorbidade subjacente incluindo doença pulmonar obstrutiva crônica (DPOC), histórico de tabagismo e hipertensão, diabetes mellitus, doença arterial coronária, outras doenças cardíacas, um índice de gravidade da doença (qSOFA), bem como o uso de medicamentos como hidroxicloroquina, azitromicina e corticosteróides".</p>
+
+
+<p>Os resultados desta análise indicaram uma redução de 65% na necessidade de ventilação mecânica (7,3 vs 21,3%) e uma redução de 83% na taxa de mortalidade geral (1,4% vs 8,5%) (Figura 2). No entanto, existem dois problemas** com esses dados.</p>
+
+
+<p>A necessidade de ventilação mecânica em pacientes não tratados parece ser bastante alta. Como exemplo, na Espanha, até 20 de maio de 2020, apenas 9% de todos os pacientes hospitalizados (11.454 de 124.521) necessitavam de admissão na UTI, um pré-requisito para a ventilação mecânica [Fonte: estatísticas oficiais do ISCii].</p>
+
+<p>Os dados descritos no manuscrito não correspondem ao gráfico.</p>
+
+
+<p>Apesar destas deficiências, esta análise foi citada em um livro branco (white paper) que defende a inclusão do ivermectina nas diretrizes nacionais de tratamento COVID-19 do Peru. Isto foi logo seguido por uma comunicação ministerial recomendando o uso de ivermectina para a COVID-19, embora ela reconhecesse a falta de provas e exigisse o uso sob consentimento informado. No entanto, isto levou a um mercado negro e à distribuição de formulações veterinárias. Tudo isso apesar de algumas vozes fortes de líderes científicos locais, como a ex-ministra da saúde Patricia Garcia.
+As autoridades sanitárias bolivianas seguiram um caminho semelhante e até foram um passo além na distribuição de 350.000 doses de ivermectina na cidade de Trinidad.
+No Paraguai, as autoridades tiveram que restringir as vendas de ivermectina após um aumento na demanda.
+No Brasil, o município de Natal (Rio Grande do Norte) incluiu o ivermectina nas diretrizes oficiais de tratamento da COVID-19.</p>
+
+
+<p>Este uso não regulamentado de ivermectina acarreta vários riscos:</p>
+<ul>
+    <li>Desvio de suprimentos de drogas, levando à escassez para uso em indicações comprovadas.
+    <li>Uso de formulações veterinárias ou doses não supervisionadas poderia levar a efeitos colaterais imprevistos que poderiam prejudicar os programas de tratamento em massa em andamento a nível comunitário, como o Programa de Doação Mectizan, que conseguiu erradicar a cegueira dos rios na Colômbia há apenas alguns anos.
+    <li>As regiões rurais da América Latina têm uma alta prevalência de helmintos intestinais. Estes parasitas são conhecidos por modularem um tipo de resposta imune que favorece a eliminação viral. A desparasitação em massa por ivermectina poderia ter um impacto sobre a severidade do COVID-19.
+    <li>Risco moral, devido a um falso senso de proteção ou tratamento com a droga
+    <li>Não realização de ensaios clínicos se a ivermectina se tornar o novo padrão de cuidado.
+    <li>Novamente, o rigor científico é necessário, mesmo em tempos de pandemia.
+&lt;/ul&gt;
+
+
+<h3>Recursos relacionados</h3>
+
+
+ASTMH Editorial
+
+Conversa de uma hora com clubes científicos bolivianos sobre este assunto
+
+Nosso ensaio clínico, SAINT
+
+<h3>Atualizações</h3>
+2/6/2020: Na primeira versão deste texto, foi indicado que a pré-impressão em ivermectina apareceu em 16 de abril, quando na verdade era 6 de abril. A data de aparecimento da segunda versão da pré-impressão também foi atualizada. Foi inicialmente refletido como tendo sido publicado em 21 de abril, quando a data correta é 19 de abril].&lt;/p&gt;
+
+<p>4/6/2020: A primeira versão do texto indicava que havia três problemas. O segundo problema foi que a taxa de mortalidade em pacientes hospitalizados com VOC-19 que estão em ventilação mecânica era muito baixa. Esta declaração foi baseada em dados de um artigo de Richardson et al. baseado em uma série de casos de 5.700 pacientes hospitalizados com COVID-19 em Nova York e que mostrou que a mortalidade entre aqueles que receberam ventilação mecânica foi de 88%. Este artigo, entretanto, foi corrigido. Para mais informações, veja https://jamanetwork.com/journals/jama/fullarticle/2765367]</p>
+</li></li></li></li></li></li></ul></p></div></p></div></p></div>
+:ET
