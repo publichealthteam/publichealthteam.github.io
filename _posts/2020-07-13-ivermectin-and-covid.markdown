@@ -3,7 +3,7 @@ layout: post
 title: Ivermectina e COVID-19
 date: 2020-07-13 00:00:00 +0200
 description: Como um banco de dados duvidoso moldou a resposta de vários países latino-americanos à pandemia
-img: iver.jpg
+img: favela.jpeg
 tags: [Covid-19, data, publishing, ivermectin]
 ---
 
@@ -41,7 +41,7 @@ tags: [Covid-19, data, publishing, ivermectin]
 <p>Os autores afirmam ter utilizado dados da Surgical Outcomes Collaborative (Surgisphere Corporation, Chicago, IL, EUA). De acordo com uma recente publicação no The Lancet (discutida abaixo), os dados incluídos nesta plataforma colaborativa são "dados anonimizados obtidos através de extração automatizada de registros eletrônicos de saúde hospitalares e ambulatoriais, cadeias de coleta de dados e registros financeiros". Em outras palavras, existe algum tipo de acordo de colaboração com centenas de hospitais usando registros eletrônicos em todo o mundo que permite a esta corporação privada obter periódica e automaticamente dados dos pacientes dessas instalações. Isto parece ir diretamente contra vários pontos do Regulamento Geral de Proteção de Dados da UE <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679">(GDPR)</a> e a parceria US-EU <a href="https://www.privacyshield.gov/list">Privacy Shield</a>, um programa para a transferência de dados pessoais.</p>
 
 
-<p>Diversas preocupações foram levantadas em torno deste banco de dados com base na recente análise da hidroxicloroquina publicada no <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext">The Lancet</a> pelos mesmos autores que assinaram a pré-impressão em ivermectina. Esses conflitos têm sido amplamente refletidos em <a href="https://zenodo.org/record/3862789#.XtEVzDozaUn">outros fóruns</a>.</p>
+<p>Diversas preocupações (<a href="https://www.theguardian.com/world/2020/jun/04/unreliable-data-doubt-snowballed-covid-19-drug-research-surgisphere-coronavirus-hydroxychloroquine?CMP=share_btn_tw">Guardian</a>, <a href="https://www.sciencemag.org/news/2020/06/two-elite-medical-journals-retract-coronavirus-papers-over-data-integrity-questions">Science</a>, <a href="https://www.nature.com/articles/d41586-020-01695-w">Nature</a>, <a href="https://www.the-scientist.com/news-opinion/surgisphere-sows-confusion-about-another-unproven-covid19-drug-67635">The Scientist</a>) foram levantadas em torno deste banco de dados com base na recente análise da hidroxicloroquina publicada no <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31180-6/fulltext">The Lancet</a> pelos mesmos autores que assinaram a pré-impressão em ivermectina. Esses conflitos têm sido amplamente refletidos em <a href="https://zenodo.org/record/3862789#.XtEVzDozaUn">outros fóruns</a>.</p>
 
 
 <p><a href="https://www.isglobal.org/documents/10179/6022921/Patel+et+al.+2020+version+1.pdf/fab19388-dc3e-4593-a075-db96f4536e9d">A primeira versão da pré-impressão do ivermectina</a> foi publicada em 6 de abril. Esta versão avaliou dados de 1.970 pacientes internados entre 1º de janeiro e 1º de março de 2020 em 169 hospitais na Ásia, Europa, África e América do Norte e do Sul, todos gravemente doentes com diagnóstico de COV-19 com lesão pulmonar que exigia ventilação mecânica. Isto incluiu 52 pacientes tratados com ivermectina, três deles (pacientes críticos que necessitam de ventilação) de hospitais africanos, apesar do fato de que até 1º de março apenas dois casos de IDOC-19 haviam sido confirmados em todo o continente africano.</p>
